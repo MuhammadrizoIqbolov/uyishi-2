@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(235, 126, 107);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.print{
+    background-color: white;
+    text-align: center;
+    list-style: none;
+    width: 350px;
+}
+.text{
+    background-color: white;
+    text-align: center;
+    list-style: none;
+    width: 350px;
+    color: rgb(197, 60, 94);
+}
+
